@@ -23,7 +23,7 @@ C++/CLI	建立中介 DLL（C++ ↔ .NET）
 
 📦 建立中介 DLL（C++/CLI）  
 在 VScode 建立「CLR Class Library」專案  
-在此專案中引入 OpenCV 標頭與 lib 檔（可以參考 這篇教學）  
+在此專案中引入 OpenCV 標頭與 lib 檔  
 將 OpenCV 的功能寫成 class method，例如：Mat ConvertToGray(string path)  
 使用 cv::Mat 處理圖片，再轉換結果為 byte[] 傳給 C#  
 
