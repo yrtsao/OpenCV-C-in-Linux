@@ -15,7 +15,7 @@ ________
 
 🔧 開發環境準備  
 工具	說明  
-Visual Studio	建議使用 2022 以上版本  
+VSCode	  
 OpenCV for C++	建議使用 v4.x（可從 OpenCV 官方網站下載）  
 CMake	編譯 OpenCV / C++ 專案使用  
 C++/CLI	建立中介 DLL（C++ ↔ .NET）  
